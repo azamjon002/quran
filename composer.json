@@ -1,0 +1,13 @@
+{
+    "name": "azamjon/quran_app",
+    "authors": [
+        {
+            "name": "azamjon",
+            "email": "azamjonqochqorov002@gmail.com"
+        }
+    ],
+
+    "require": {
+        "irazasyed/telegram-bot-sdk": "^2.0"
+    }
+}
